@@ -1,0 +1,26 @@
+
+
+h2 {
+
+  background-color: aliceblue;
+}
+
+img {
+  width: 40%;
+}
+
+body {
+  background-color: #dff0e7;
+  text-align: center;
+}
+
+.card-body {
+  text-align: left;
+}
+
+.jumbotron {
+  position: relative;
+  left: 30%;
+  width: 40%;
+  text-align: left;
+}
