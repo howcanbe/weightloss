@@ -1,17 +1,14 @@
 
 
-h2 {
-
-  background-color: aliceblue;
-}
-
 img {
-  width: 40%;
+  width: 100%;
 }
+
+
 
 body {
   background-color: #ebd9c5;
-  text-align: center;
+
 }
 
 .card-body {
@@ -19,8 +16,29 @@ body {
 }
 
 .jumbotron {
-  position: relative;
-  left: 30%;
+  display: inline-block;
   width: 40%;
   text-align: left;
+}
+
+.navbar {
+  text-align: right;
+}
+
+.btn-link {
+  color: black;
+}
+
+span {
+  color: white;
+  vertical-align: top;
+}
+
+.container-fluid {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+h2 {
+  margin-bottom: 0px;
 }
